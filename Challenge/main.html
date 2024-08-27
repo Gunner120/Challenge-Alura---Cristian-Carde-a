@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles/styles.css">
+        <link rel="stylesheet" href="styles/reset.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+        <title>Encriptador de texto</title>
+    </head>
+    <body class="body">
+        <header class="logo">
+            <img class="image_logo" src="assets/header logo.png" alt="Alura logo">
+        </header>
+
+        <main class="main">
+            <section class="main_input_buttons" id="input_text">
+                <h1></h1>
+                <textarea class="text_area" id="input_box" rows="10" cols="40" maxlength="500" 
+                placeholder="Ingresa el texto aquí"></textarea>
+                <div class="information">Solo letras minúsculas y sin acentos</div>
+                <div class="buttons">
+                    <button class="button_encrypt" onclick="encrypt_text_main();">Encriptar</button>
+                    <button class="button_decrypt" onclick="decrypt_text_main();">Desencriptar</button>
+                </div>
+            </section>
+            
+            <section class="text_display" id="text_display">
+                <div class="textBox" id="text_display_none">
+                    <img class="image_dummy" src="assets/textbox image dummy.png" alt="Persona con una lupa">
+                    <p class="text_none">Ningún mensaje fue encontrado</p>
+                    <p class="text_none">Ingresa el texto que desees encriptar o desencriptar</p>
+                </div>
+                <div class="textBox" id="text_display_encrypted_decrypted">
+                    <textarea readonly class="text_message" id="encrypted_decrypted_text"></textarea>
+                    <button class="button_copy" id="copy_button" onclick="copyToClipboard();">Copiar</button>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+
+        </footer>
+
+        <script src="script/src.js" defer></script>
+    </body>
+</html>
