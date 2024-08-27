@@ -7,9 +7,10 @@ _Challenge Encriptador de Texto_
 _Esta guía permitirá correr una página web de un encriptador de texto_
 
 
-### Instalación 🔧
+### Instalación y funciones 🔧
 
 _Únicamente se debe de abrir el archivo "mian.html" con un navegador web y ¡Listo!_
+_Con este programa se puede encriptar texto y desencriptarlo con tan solo presionar un botón ¡Es muy fácil!_
 
 
 ## Herramientas 📌
