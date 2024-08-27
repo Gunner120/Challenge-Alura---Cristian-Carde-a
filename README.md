@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Challenge Encriptador de Texto
 
-_Challenge Encriptador de Texto_
+_El último paso para completar lo necesario del grupo 7 de Oracle ONE_
 
 ## Inicio 🚀
 
