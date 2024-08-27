@@ -4,7 +4,7 @@ _El último paso para completar lo necesario del grupo 7 de Oracle ONE_
 
 ## Inicio 🚀
 
-_Esta guía permitirá correr una página web de un encriptador de texto_
+_Con este repositorio podrás correr una página web de un encriptador de texto_
 
 
 ### Instalación y funciones 🔧
@@ -23,6 +23,6 @@ CSS para personalizar la página.
 
 * **Cristian Emmanuel Cardeña Benítez** - *Todo el desarrollo, HTML, CSS y JavaScript*
 
-## Expresiones de Gratitud 🎁
+## Gracias por esta oportunidad 🎁
 
 * Muchas gracias a Oracle por haberme permitido esta oportunidad de aprendizaje
