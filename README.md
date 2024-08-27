@@ -9,7 +9,7 @@ _Con este repositorio podrás correr una página web de un encriptador de texto_
 
 ### Instalación y funciones 🔧
 
-_Únicamente se debe de abrir el archivo "mian.html" con un navegador web y ¡Listo!_
+_Únicamente se debe de abrir el archivo "mian.html" que está dentro del directorio "Challenge" con un navegador web y ¡Listo!_
 _Con este programa se puede encriptar texto y desencriptarlo con tan solo presionar un botón ¡Es muy fácil!_
 
 
